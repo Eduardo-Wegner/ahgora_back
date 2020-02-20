@@ -19,8 +19,8 @@ Backend Ahgora Challenge
 	*  node index.js 
 ---
 ##### You can download the final compiled project for linux / windows 
-	
-    * Download -  LINUX -> ahgora_challenge_linux.sh
+	* https://drive.google.com/open?id=1jFFBR-5o6HnidWe1cOnThDItXfPI47-t
+    	* Download -  LINUX -> ahgora_challenge_linux.sh
 			      - WINDOWS -> ahgora_challenge.exe
 	* Create or download a .env on the same folder of executable.
 		ex .env:
