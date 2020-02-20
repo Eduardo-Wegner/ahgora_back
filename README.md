@@ -13,6 +13,12 @@ Backend Ahgora Challenge
 * Edit ".env" to change HTTP and HTTPS port.
 
 ---
+##### Run TEST:
+> The test files is in test folder, to run the test execute 'npm run test'
+> This will test the modules initializations and test the Google Authorize and search in youtube.
+> * The authorize test will open a Browser tab and you must follow the steps to authorize your account, you'll have 50 seconds before next text or this will show a fail test on search video.
+
+---
 ##### Run Project:
 * Clone or download the project, execute the following commands:
 	*  npm install -(to install all packages dependencies)
